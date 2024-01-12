@@ -129,7 +129,7 @@ OracleDB, PL/SQL
 ![Untitled](https://github.com/jiyoon-lee/the-trip/assets/59562141/001997a8-383f-4ec6-b9ff-bdca53a052d3)
 
 ## UI 캡처
-<img src="./UI캡처/1.png" width="500" />
-<img src="./UI캡처/2.png" width="500" />
-<img src="./UI캡처/3.png" width="500" />
-<img src="./UI캡처/4.png" width="500" />
+<img src="./UI캡처/1.png" width="600" />
+<img src="./UI캡처/2.png" width="600" />
+<img src="./UI캡처/3.png" width="600" />
+<img src="./UI캡처/4.png" width="600" />
