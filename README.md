@@ -13,7 +13,7 @@ OracleDB, PL/SQL
 - flask
 - swagger<br>
 ▼ 파일구조 설명<br>
-<img src="https://github.com/jiyoon-lee/the-trip/assets/59562141/ac1f2d8d-1b1c-4796-8437-f54d3979b8f8" width="300">
+  <img src="https://github.com/jiyoon-lee/the-trip/assets/59562141/ac1f2d8d-1b1c-4796-8437-f54d3979b8f8" width="300">
 
 ### 프론트엔드
 - Vue3(composition api)
@@ -127,3 +127,9 @@ OracleDB, PL/SQL
 
 ### E-R 다이어그램
 ![Untitled](https://github.com/jiyoon-lee/the-trip/assets/59562141/001997a8-383f-4ec6-b9ff-bdca53a052d3)
+
+## UI 캡처
+<img src="./UI캡처/1.png" width="500" />
+<img src="./UI캡처/2.png" width="500" />
+<img src="./UI캡처/3.png" width="500" />
+<img src="./UI캡처/4.png" width="500" />
