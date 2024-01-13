@@ -60,10 +60,10 @@ OracleDB, PL/SQL
 19. User테이블은 Preference 테이블을 필수적으로 가지지않아도 된다.
 20. Preference 테이블은 User테이블을 필수적으로 가져야 한다.
 
-### E-R 다이어그램
+### 논리모델
 ![Untitled](https://github.com/jiyoon-lee/the-trip/assets/59562141/9dce6878-50c0-4eb0-afe4-99143547d176)
 
-### 논리 모델
+### 관계모델
 ![Untitled](https://github.com/jiyoon-lee/the-trip/assets/59562141/001997a8-383f-4ec6-b9ff-bdca53a052d3)
 
 ## UI 캡처
